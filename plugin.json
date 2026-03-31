@@ -1,5 +1,5 @@
 {
-  "id": "@sas/sample-player",
+  "id": "@signalsandsorcery/sample-player",
   "displayName": "Samples",
   "version": "1.0.0",
   "description": "Sample library browser with time-stretching and scene-scoped playback",

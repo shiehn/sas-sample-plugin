@@ -1,5 +1,5 @@
 /**
- * SamplePlayerPanel — UI for the @sas/sample-player plugin
+ * SamplePlayerPanel — UI for the @signalsandsorcery/sample-player plugin
  *
  * Renders the sample track list with browse/import controls,
  * volume slider, mute/solo, and delete. Uses ONLY PluginHost

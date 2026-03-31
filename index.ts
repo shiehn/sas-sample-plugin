@@ -1,5 +1,5 @@
 /**
- * @sas/sample-player — Built-in Sample Player Plugin
+ * @signalsandsorcery/sample-player — Built-in Sample Player Plugin
  *
  * Provides sample library browsing, import, time-stretching,
  * and scene-scoped sample track management.
@@ -16,7 +16,7 @@ import type {
 import { SamplePlayerPanel } from './SamplePlayerPanel';
 
 export class SamplePlayerPlugin implements GeneratorPlugin {
-  readonly id = '@sas/sample-player';
+  readonly id = '@signalsandsorcery/sample-player';
   readonly displayName = 'Samples';
   readonly version = '1.0.0';
   readonly description = 'Sample library browser with time-stretching and scene-scoped playback';
