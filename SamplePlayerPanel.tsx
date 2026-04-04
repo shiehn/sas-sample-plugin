@@ -16,10 +16,10 @@ import type {
   PluginTrackRuntimeState,
   PluginTrackFxDetailState,
   PluginFxCategoryDetailState,
-} from '../../../shared/types/plugin-sdk.types';
-import { TrackRow } from '../../sdk';
-import type { FxCategory, TrackFxDetailState } from '../../../shared/types/fx-toggle.types';
-import { EMPTY_FX_DETAIL_STATE } from '../../../shared/types/fx-toggle.types';
+  FxCategory,
+  TrackFxDetailState,
+} from '@signalsandsorcery/plugin-sdk';
+import { TrackRow, EMPTY_FX_DETAIL_STATE } from '@signalsandsorcery/plugin-sdk';
 
 // ============================================================================
 // Constants
