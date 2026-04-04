@@ -8,5 +8,7 @@
   "author": "Signals & Sorcery",
   "minHostVersion": "1.0.0",
   "builtIn": true,
-  "capabilities": {}
+  "capabilities": {
+    "fileDialog": true
+  }
 }
